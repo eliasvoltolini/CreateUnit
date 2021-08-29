@@ -41,7 +41,7 @@ const
   CNT_UNIT           = 'Unit U%s;' + #13#10;
   CNT_INTERFACE      = 'interface' + #13#10;
   CNT_TYPE           = 'type';
-  CNT_CLASS          = '  %s = class';
+  CNT_CLASS          = '  T%s = class';
   CNT_PRIVATE        = '  private';
   CNT_ATRIBUTO       = '    F%s : %s;';
   CNT_PUBLIC         = #13#10 + '  public';
